@@ -1,2 +1,3 @@
 # python_practice
-python program
+simple python program
+numpy , pandas and seaborn
